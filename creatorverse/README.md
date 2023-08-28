@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [X] Picocss is used to style HTML elements
+- [ ] Picocss is used to style HTML elements
 - [X] The content creator items are displayed in a creative format, like cards instead of a list
 - [X] An image of each content creator is shown on their content creator card
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='👉🏿<img src='https://i.imgur.com/7sukk5j.mp4' alt='Video Walkthrough' />' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='👉🏿<img src='walkthrough.gif' alt='Video Walkthrough' />' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 licecap
